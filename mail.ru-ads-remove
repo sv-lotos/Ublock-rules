@@ -1,2 +1,3 @@
+e.mail.ru##:xpath(//*[@class='new-menu']/../*[1])
 e.mail.ru##div div div div div div div div:has-text(/Убрать рекламу/)
 e.mail.ru##div div div div div div div div div div div div div div:has-text(/Скрыть рекламу/)
